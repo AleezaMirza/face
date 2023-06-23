@@ -1,0 +1,10 @@
+body{
+    background-color: aliceblue;
+}
+
+.name_of_faces{
+    background-color: purple;
+    color: white;
+    font-size: large;
+    width: 500px;
+}
